@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Daydaro/FFC/precache-manifest.2db112895c1ae51a3d927c6676b51234.js"
+  "/FFC/precache-manifest.27a5140219e3cd8fd3d982dfcacba6c3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Daydaro/FFC/index.html", {
+workbox.routing.registerNavigationRoute("/FFC/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
