@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/FFC/static/js/runtime~main.b2720515.js"
   },
   {
-    "revision": "9a33db022bf06cb2a32d29f2f1f6bf4b",
+    "revision": "922e11c045e852dfea56aeb576967463",
     "url": "/FFC/index.html"
   }
 ];
